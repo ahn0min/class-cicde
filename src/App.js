@@ -28,6 +28,7 @@ function App() {
     <div className="App">
       <Provider store={store}>
         <Header></Header>
+        <Header></Header>
         <Nav></Nav>
         <Article></Article>
       </Provider>
